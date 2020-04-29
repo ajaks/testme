@@ -1,0 +1,12 @@
+{
+    "posts":
+    [
+        {
+            "id": 1,
+            "title": "post_1",
+            "date": "2019-02-01T20:56:35",
+            "body": "The post",
+            "deleted": false
+        }
+    ]
+}
